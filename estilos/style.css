@@ -3,12 +3,14 @@
     font-size: ;
 }
 body{
-    background-color: rgb(red, green, blue);
+    background-color: rgb(140, 102, 255);
 
 }
-
+img.lado{
+    float: right;
+}
 main{
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     width: 500px;
     margin: auto;
     padding: 10px;
